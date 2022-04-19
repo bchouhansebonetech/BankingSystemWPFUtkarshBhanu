@@ -12,22 +12,16 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
-namespace BankingSyestem
+namespace BankingSyestem.LogIn
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for LoginForm.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class LoginForm : Window
     {
-        public MainWindow()
+        public LoginForm()
         {
             InitializeComponent();
-        }
-
-        private void RedirectingButton_Click(object sender, RoutedEventArgs e)
-        {
-            BankingSyestem.LogIn.LoginForm form = new BankingSyestem.LogIn.LoginForm();
-            form.Show();
         }
     }
 }

@@ -4,17 +4,30 @@
 winexe
 C#
 .cs
+<<<<<<< HEAD
 C:\Users\Bhanu Singh\source\repos\PracticeProgramProject\WPFProject1\BankingSyestem\BankingSyestem\obj\Debug\net6.0-windows\
+=======
+C:\Users\Utkarsh Shrivastava\source\repos\BankData\BankingSystemutkarshBhanu\BankingSyestem\BankingSyestem\obj\Debug\net6.0-windows\
+>>>>>>> f7b72b1457b95c2160d2e1ef1e5b19ca28e641f2
 BankingSyestem
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+<<<<<<< HEAD
 C:\Users\Bhanu Singh\source\repos\PracticeProgramProject\WPFProject1\BankingSyestem\BankingSyestem\App.xaml
 2483082950
 
 101754681169
 1941645785384
 MainWindow.xaml;SignUp\SignUpForm.xaml;
+=======
+C:\Users\Utkarsh Shrivastava\source\repos\BankData\BankingSystemutkarshBhanu\BankingSyestem\BankingSyestem\App.xaml
+2-961912669
+
+12-754341883
+1941645785384
+LogIn\LogInForm.xaml;MainWindow.xaml;
+>>>>>>> f7b72b1457b95c2160d2e1ef1e5b19ca28e641f2
 
 False
 

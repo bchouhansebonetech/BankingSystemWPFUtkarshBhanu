@@ -7,6 +7,16 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+        <TextBlock x:Name="MainWindowBlock" HorizontalAlignment="Left" Margin="214,10,0,0" TextWrapping="Wrap" Text="Banking System" VerticalAlignment="Top" FontSize="48">
+            <TextBlock.Foreground>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FFE661BE" Offset="1"/>
+                </LinearGradientBrush>
+            </TextBlock.Foreground>
+        </TextBlock>
+        <Button x:Name="RedirectingButton" Content="click here to login" HorizontalAlignment="Left" Margin="10,183,0,0" VerticalAlignment="Top" Background="{x:Null}" Foreground="#FF2F38E2" FontSize="30" FontWeight="Bold" BorderBrush="#FFEDE1E1" Click="RedirectingButton_Click"/>
+        <TextBlock x:Name="WelcomeBlock" HorizontalAlignment="Left" Margin="10,115,0,0" TextWrapping="Wrap" Text="Welcome" VerticalAlignment="Top" Foreground="#FFB63333" FontSize="36" FontWeight="Bold"/>
 
     </Grid>
 </Window>

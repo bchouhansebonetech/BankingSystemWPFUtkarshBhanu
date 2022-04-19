@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BankingSyestem.SendMoneyTransaction
 {
-    internal interface ISendMoneyTransaction
+    public interface ISendMoneyTransaction
     {
     }
 }

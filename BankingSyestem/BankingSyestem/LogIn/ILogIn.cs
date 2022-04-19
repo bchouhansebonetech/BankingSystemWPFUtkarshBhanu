@@ -8,5 +8,6 @@ namespace BankingSyestem.LogIn
 {
     public interface ILogIn
     {
+        public UserLoginDataDO loginAccess(UserLoginDataDO userLoginDataDO,List<UserLoginDataDO> userLoginDataDOList);
     }
 }
