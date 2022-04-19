@@ -47,5 +47,8 @@ C:\Users\Utkarsh Shrivastava\source\repos\BankData\BankingSystemutkarshBhanu\Ban
 C:\Users\Utkarsh Shrivastava\source\repos\BankData\BankingSystemutkarshBhanu\BankingSyestem\BankingSyestem\obj\Debug\net6.0-windows\MainWindow.g.cs
 C:\Users\Utkarsh Shrivastava\source\repos\BankData\BankingSystemutkarshBhanu\BankingSyestem\BankingSyestem\obj\Debug\net6.0-windows\MainWindow.baml
 >>>>>>> f7b72b1457b95c2160d2e1ef1e5b19ca28e641f2
+<<<<<<< HEAD
 C:\Users\Bhanu Singh\source\repos\PracticeProgramProject\WPFProject1\BankingSyestem\BankingSyestem\obj\Debug\net6.0-windows\LogIn\LogInForm.g.cs
 C:\Users\Bhanu Singh\source\repos\PracticeProgramProject\WPFProject1\BankingSyestem\BankingSyestem\obj\Debug\net6.0-windows\LogIn\LogInForm.baml
+=======
+>>>>>>> 55040b8b92a097bc5e611d9582d739cafa9ae0be

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bhanu Singh\\source\\repos\\PracticeProgramProject\\WPFProject1\\BankingSyestem\\BankingSyestem\\BankingSyestem.csproj": {}
+    "C:\\Users\\Utkarsh Shrivastava\\source\\repos\\BankData\\BankingSystemutkarshBhanu\\BankingSyestem\\BankingSyestem\\BankingSyestem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bhanu Singh\\source\\repos\\PracticeProgramProject\\WPFProject1\\BankingSyestem\\BankingSyestem\\BankingSyestem.csproj": {
+    "C:\\Users\\Utkarsh Shrivastava\\source\\repos\\BankData\\BankingSystemutkarshBhanu\\BankingSyestem\\BankingSyestem\\BankingSyestem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bhanu Singh\\source\\repos\\PracticeProgramProject\\WPFProject1\\BankingSyestem\\BankingSyestem\\BankingSyestem.csproj",
+        "projectUniqueName": "C:\\Users\\Utkarsh Shrivastava\\source\\repos\\BankData\\BankingSystemutkarshBhanu\\BankingSyestem\\BankingSyestem\\BankingSyestem.csproj",
         "projectName": "BankingSyestem",
-        "projectPath": "C:\\Users\\Bhanu Singh\\source\\repos\\PracticeProgramProject\\WPFProject1\\BankingSyestem\\BankingSyestem\\BankingSyestem.csproj",
-        "packagesPath": "C:\\Users\\Bhanu Singh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bhanu Singh\\source\\repos\\PracticeProgramProject\\WPFProject1\\BankingSyestem\\BankingSyestem\\obj\\",
+        "projectPath": "C:\\Users\\Utkarsh Shrivastava\\source\\repos\\BankData\\BankingSystemutkarshBhanu\\BankingSyestem\\BankingSyestem\\BankingSyestem.csproj",
+        "packagesPath": "C:\\Users\\Utkarsh Shrivastava\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Utkarsh Shrivastava\\source\\repos\\BankData\\BankingSystemutkarshBhanu\\BankingSyestem\\BankingSyestem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Bhanu Singh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Utkarsh Shrivastava\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

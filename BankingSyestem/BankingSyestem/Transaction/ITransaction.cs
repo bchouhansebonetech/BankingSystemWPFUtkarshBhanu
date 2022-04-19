@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BankingSyestem.Transaction
 {
-    internal interface ITransaction
+    public interface ITransaction
     {
     }
 }

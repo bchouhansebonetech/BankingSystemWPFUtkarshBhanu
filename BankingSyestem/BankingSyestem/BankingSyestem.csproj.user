@@ -1,4 +1,38 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup />
+  <ItemGroup>
+<<<<<<< HEAD
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="SignUp\SignUpForm.xaml.cs">
+=======
+    <Compile Update="LogIn\LogInForm.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="MainWindow.xaml.cs">
+>>>>>>> f7b72b1457b95c2160d2e1ef1e5b19ca28e641f2
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+<<<<<<< HEAD
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SignUp\SignupForm.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+=======
+    <Page Update="LogIn\LogInForm.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+>>>>>>> f7b72b1457b95c2160d2e1ef1e5b19ca28e641f2
+  </ItemGroup>
 </Project>

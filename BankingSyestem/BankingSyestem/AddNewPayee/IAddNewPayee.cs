@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BankingSyestem.AddNewPayee
 {
-    internal interface IAddNewPayee
+    public interface IAddNewPayee
     {
     }
 }

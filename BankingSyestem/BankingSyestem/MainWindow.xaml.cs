@@ -10,7 +10,6 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace BankingSyestem
@@ -23,6 +22,12 @@ namespace BankingSyestem
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void RedirectingButton_Click(object sender, RoutedEventArgs e)
+        {
+            BankingSyestem.LogIn.LoginForm form = new BankingSyestem.LogIn.LoginForm();
+            form.Show();
         }
     }
 }

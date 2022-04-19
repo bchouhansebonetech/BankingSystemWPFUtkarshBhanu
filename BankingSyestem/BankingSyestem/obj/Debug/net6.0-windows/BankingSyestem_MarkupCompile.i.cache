@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\Bhanu Singh\source\repos\PracticeProgramProject\WPFProject1\BankingSyestem\BankingSyestem\App.xaml
-11407045341
+3-1885875060
 
-11293009421
+17-1708590255
 1941645785384
-MainWindow.xaml;
+LogIn\LogInForm.xaml;MainWindow.xaml;SignUp\SignUpForm.xaml;
 
 False
 

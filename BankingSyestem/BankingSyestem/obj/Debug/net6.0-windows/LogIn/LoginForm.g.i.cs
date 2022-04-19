@@ -117,7 +117,11 @@ namespace BankingSyestem.LogIn {
                 return;
             }
             _contentLoaded = true;
+<<<<<<< HEAD
             System.Uri resourceLocater = new System.Uri("/BankingSyestem;component/login/loginform.xaml", System.UriKind.Relative);
+=======
+            System.Uri resourceLocater = new System.Uri("/BankingSyestem;V1.0.0.0;component/login/loginform.xaml", System.UriKind.Relative);
+>>>>>>> 55040b8b92a097bc5e611d9582d739cafa9ae0be
             
             #line 1 "..\..\..\..\LogIn\LogInForm.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

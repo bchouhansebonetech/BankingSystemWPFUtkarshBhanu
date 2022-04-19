@@ -197,7 +197,11 @@ namespace BankingSyestem.SignUp {
                 return;
             }
             _contentLoaded = true;
+<<<<<<< HEAD
             System.Uri resourceLocater = new System.Uri("/BankingSyestem;component/signup/signupform.xaml", System.UriKind.Relative);
+=======
+            System.Uri resourceLocater = new System.Uri("/BankingSyestem;V1.0.0.0;component/signup/signupform.xaml", System.UriKind.Relative);
+>>>>>>> 55040b8b92a097bc5e611d9582d739cafa9ae0be
             
             #line 1 "..\..\..\..\SignUp\SignUpForm.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
