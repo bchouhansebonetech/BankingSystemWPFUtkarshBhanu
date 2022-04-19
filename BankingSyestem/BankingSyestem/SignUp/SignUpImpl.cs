@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BankingSyestem.LogIn
+namespace BankingSyestem.SignUp
 {
-    public interface ILogIn
+    public class SignUpImpl
     {
+
     }
 }
