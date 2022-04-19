@@ -19,3 +19,5 @@ C:\Users\Utkarsh Shrivastava\source\repos\BankData\BankingSystemutkarshBhanu\Ban
 C:\Users\Utkarsh Shrivastava\source\repos\BankData\BankingSystemutkarshBhanu\BankingSyestem\BankingSyestem\obj\Debug\net6.0-windows\BankingSyestem.pdb
 C:\Users\Utkarsh Shrivastava\source\repos\BankData\BankingSystemutkarshBhanu\BankingSyestem\BankingSyestem\obj\Debug\net6.0-windows\BankingSyestem.genruntimeconfig.cache
 C:\Users\Utkarsh Shrivastava\source\repos\BankData\BankingSystemutkarshBhanu\BankingSyestem\BankingSyestem\obj\Debug\net6.0-windows\ref\BankingSyestem.dll
+C:\Users\Utkarsh Shrivastava\source\repos\BankData\BankingSystemutkarshBhanu\BankingSyestem\BankingSyestem\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Utkarsh Shrivastava\source\repos\BankData\BankingSystemutkarshBhanu\BankingSyestem\BankingSyestem\obj\Debug\net6.0-windows\MainWindow.baml

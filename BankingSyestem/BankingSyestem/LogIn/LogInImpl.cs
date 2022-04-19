@@ -8,9 +8,12 @@ namespace BankingSyestem.LogIn
 {
     internal class LogInImpl : ILogIn
     {
-     
+
         public UserLoginDataDO loginAccess(UserLoginDataDO userLoginDataDO, List<UserLoginDataDO> userLoginDataDOList)
         {
+            if (userLoginDataDO.Status == true)
+                return userLoginDataDO;
+            else { 
             if (userLoginDataDO.UserName == null || userLoginDataDO.Password == null)
                 userLoginDataDO.Status = false;
             else
@@ -18,11 +21,11 @@ namespace BankingSyestem.LogIn
                 foreach (UserLoginDataDO userLoginDatado in userLoginDataDOList)
                 {
                     if (userLoginDatado.UserName == userLoginDataDO.UserName && userLoginDataDO.Password == userLoginDatado.Password)
-                        userLoginDataDO.Status=true;
-                        break;
+                        userLoginDataDO.Status = true;
+                    break;
                 }
             }
             return userLoginDataDO;
         }
-    }
+    } }
 }
