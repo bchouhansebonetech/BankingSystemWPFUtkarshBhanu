@@ -1,5 +1,5 @@
 ﻿BankingSyestem
-1.0.0.0
+
 
 winexe
 C#
@@ -12,9 +12,9 @@ TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\Bhanu Singh\source\repos\PracticeProgramProject\WPFProject1\BankingSyestem\BankingSyestem\App.xaml
 2483082950
 
-14-1140594995
+101754681169
 1941645785384
 MainWindow.xaml;SignUp\SignUpForm.xaml;
 
-True
+False
 

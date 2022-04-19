@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BankingSyestem.AddNewPayee
+namespace BankingSyestem.LogIn
 {
-    internal interface ILogIn
+    public interface ILogIn
     {
     }
 }
